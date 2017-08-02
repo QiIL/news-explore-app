@@ -1,0 +1,30 @@
+{
+  "name": "news-explore-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QiIL/news-explore-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QiIL/news-explore-app/issues"
+  },
+  "homepage": "https://github.com/QiIL/news-explore-app#readme",
+  "devDependencies": {
+    "webpack": "^3.4.1"
+  },
+  "dependencies": {
+    "css-loader": "^0.28.4",
+    "file-loader": "^0.11.2",
+    "lodash": "^4.17.4",
+    "style-loader": "^0.18.2"
+  }
+}
