@@ -4,7 +4,7 @@ const webpack = require('webpack');
 
 module.exports = {
   entry: {
-    index: './src/index.js',
+    logoTitle: './src/logoTitle.js'
   },
   output: {
     filename: '[name].bundle.js',
